@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#map iframe {
+    width: 50%;
+    padding-top: 5px;
+}
+
+#marqueeStyle {
+    color: beige;
+    background-color: deepskyblue;
+}
+
+body {
+    background-color: orange;
+    text-align: center;
+}
